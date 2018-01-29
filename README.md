@@ -1,5 +1,5 @@
 # Norne-Initial-Ensemble
-This repository contains Matlab code and description for generating an initial ensemble for the Norne model. It is also possible to download a pre-computed ensemble with size 100. 
+This repository contains Matlab code and description for generating an initial ensemble for the Norne model. 
 
 File description:
 
