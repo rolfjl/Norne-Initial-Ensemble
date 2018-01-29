@@ -9,7 +9,7 @@ The main function for generating the ensemble. The input to the function are ens
 
 Lorentzen, R., Luo, X., Bhakta, T., Valestrand, R.: "History matching
 Norne reservoir and petroelastic models using seismic impedance with
-correlated noise" Submitted to SPE Journal.
+correlated noise", Submitted to SPE Journal.
  
 We also ask that the above paper is cited in publications aided by this code.
 
