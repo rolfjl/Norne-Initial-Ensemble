@@ -7,9 +7,7 @@ File description:
 
 The main function for generating the ensemble. The input to the function are ensemble size and a number used to initialize the random generator. For more information we refer to the paper: 
 
-Lorentzen, R., Luo, X., Bhakta, T., Valestrand, R.: "History matching
-Norne reservoir and petroelastic models using seismic impedance with
-correlated noise", Submitted to SPE Journal.
+Lorentzen, R., Luo, X., Bhakta, T., Valestrand, R.: "History Matching the Full Norne Field Model Using Seismic and Production Data ", SPE Journal, January 2019. DOI: https://doi.org/10.2118/194205-PA.
  
 We also ask that the above paper is cited in publications aided by this code.
 
