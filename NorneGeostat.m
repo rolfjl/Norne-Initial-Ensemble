@@ -67,6 +67,7 @@ str = fileread('PERM_0704.prop');
 matchStr = regexp(str,'(?<=PERMX)(.*)(?=/)','match');
 s = regexprep(matchStr{1},'\s+',' ');
 k = str2num(s)';
+k = log(k);
 k(act==0) = [];
 for nr=1:dim(3)
     index=ldim*(nr-1)+1:1:ldim*nr;
